@@ -15,6 +15,7 @@ I am a specialist with extensive experience in various technologies. I do not st
 <br>## 🔗 Interesting projects :
  
 [CI/CD PIPELINE](https://github.com/asiamegic/azure_devops_pipeline)<br>
+[Docker and CI/CD](https://github.com/asiamegic/docker_pipeline_ci_cd)<br>
 [Terraform and Ansible](https://github.com/asiamegic/ansible_with_terraform)<br>
 [Python Automatioan API and UI](https://github.com/asiamegic/artem_op_project_full)<br>
  
