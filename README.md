@@ -14,6 +14,7 @@ I am a specialist with extensive experience in various technologies. I do not st
  
 <br>## 🔗 Interesting projects :
  
+[Kubernetes Cluster + CI/CD](https://github.com/asiamegic/k8s/)<br>
 [CI/CD PIPELINE](https://github.com/asiamegic/azure_devops_pipeline)<br>
 [Docker and CI/CD](https://github.com/asiamegic/docker_pipeline_ci_cd)<br>
 [Terraform and Ansible](https://github.com/asiamegic/ansible_with_terraform)<br>
